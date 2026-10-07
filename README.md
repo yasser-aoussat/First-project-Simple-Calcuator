@@ -1,2 +1,5 @@
-# First-project-Simple-Calcuator
-This is my first project using python
+# Simple Calculator
+A simple calculator written in Python.
+
+## How to run
+python main.py
